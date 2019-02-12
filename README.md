@@ -1,6 +1,7 @@
-# Composer template for Drupal with projects which are in Intigriti's bug-bounty program
+# Composer template for Drupal + contrib modules which are in its bug-bounty program
 
-[Link to the bug-bounty program](https://intigriti.com/public/project/drupal/drupal).
+[Link to the bug-bounty program at Intigriti](https://intigriti.com/public/project/drupal/drupal).
+
 [Link to the full list of participating contrib modules](https://docs.google.com/spreadsheets/d/1KLfh7nbLb-XSMf7c59Wckg2xUH5Z1ko44mZb2RLnhic/edit#gid=321421979)
 
 --
